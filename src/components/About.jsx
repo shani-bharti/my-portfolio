@@ -13,7 +13,7 @@ const About = () => {
           />
         </div>
         <div className="col-md-8 text-white">
-          <h2 className="text-glow mb-3">Hey, I'm Shani 👋</h2>
+          <h2 className="text-glow mb-3">Hey, I'm Shani Bharti 👋</h2>
           <p>
             I'm a passionate BCA student who loves building modern, responsive web apps
             with React and Vite. I enjoy designing elegant UIs and creating immersive user experiences.
